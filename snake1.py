@@ -1,7 +1,5 @@
 #PROYECTO
-#NIDIA VANESSA CHÁVEZ RENDÓN
-#FUNDAMENTOS DE PROGRAMACIÓN
-#IT1
+
 #     __//
 ##  /.__.\
 #   \ \/ /
